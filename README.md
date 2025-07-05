@@ -31,5 +31,5 @@ Recursively prints an integer array from the last element to the first.
 ## How to Compile & Run
 
 ```bash
-gcc main.c -o binconverter -lm
+gcc ushtrim_rekursivitet_array_me_numrat_binar.c -o binconverter -lm
 ./binconverter
